@@ -18,10 +18,10 @@ WalletConnect is a React component that allows users to connect their MetaMask w
 
 1. Clone the repository:
 
-   ```sh
    git clone https://github.com/your-repo/walletconnect.git
    cd walletconnect
 
+   ```
 
    ```
 
@@ -31,7 +31,11 @@ WalletConnect is a React component that allows users to connect their MetaMask w
 
 1. Start the development server:
 
-npm start
+   npm run dev
+
+   ```
+
+   ```
 
 Open your browser and navigate to http://localhost:3000.
 
@@ -44,4 +48,5 @@ Usage
 
 <!-- live link -->
 
-https://walletconnect.netlify.app/
+LIVE LINK:
+https://react-wallet-app-iota.vercel.app/
